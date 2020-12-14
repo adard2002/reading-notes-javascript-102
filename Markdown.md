@@ -17,4 +17,4 @@
  **Link:** \[Text that will show on your website](Website URL)\
  **Images:** \[Image Name](/assets/images/markdown.png)
 
-> Make sure you use backslash (\) and not forward slash (/) while escaping characters. 
+> Make sure you use backslash and not forward slash while trying to escape characters. 
