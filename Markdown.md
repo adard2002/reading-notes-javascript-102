@@ -4,7 +4,7 @@
 
 |   Markdown   |   What it does   |
 |:-------------|:----------------:|
-| */Markdown*/ |     Italics      |
+| *\Markdown\* |     Italics      |
 |              |                  | 
 |              |                  |
 
