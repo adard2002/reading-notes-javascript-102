@@ -15,5 +15,5 @@ Intro to coding and software development
 # About me
 * My name is Adara Townsend and I want to learn more about coding. I've played video games ever since I could hold a controller, my first console was the PS2.
 
-**My GitHub**
-[GitHub](https://github.com/adard2002)
+**Link(s)**
+* [GitHub](https://github.com/adard2002)
