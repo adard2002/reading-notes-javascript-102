@@ -10,7 +10,8 @@ Intro to coding and software development
 
 > Never give up on something that yuo can't go a day without thinking about. -Winston Churchill
 
-![Mindset](https://learningframescom.files.wordpress.com/2018/05/growth-v-fixed.jpg?w=1024)
+<img src="https://learningframescom.files.wordpress.com/2018/05/growth-v-fixed.jpg?w=1024" width="200" height="400" />
+
 
 # About me
 * My name is Adara Townsend and I want to learn more about coding. I've played video games ever since I could hold a controller, my first console was the PS2.
