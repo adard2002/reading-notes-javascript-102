@@ -14,6 +14,7 @@
 > There are a total of 6 different sizes of headers. # Is the largest while ###### is the smallest
 
 ## How to do Images and Links
- Link: \[Text that will show on your website](Website URL)\
- Images: \[Image Name](/assets/images/markdown.png)
+ **Link:** \[Text that will show on your website](Website URL)\
+ **Images:** \[Image Name](/assets/images/markdown.png)
 
+> Make sure you use backslash (\) and not forward slash (/) while escaping characters. 
