@@ -60,8 +60,8 @@
         <h3>What are attributes?</h3>
         <p>Attributes tell us more about the code</p>
         - Example: 
-        <p style="color:pinkText;">Pink:</p> Attribute name
-        <p style="color:blueText;">Blue:</p> Attribute value
+        <p><p style="color:pinkText;">Pink:</p> Attribute name</p>
+        <p><p style="color:blueText;">Blue:</p> Attribute value</p>
         - &lt;p&gt; <p style="color:pinkText;">lang</p>="<p style="color:blueText;">en-us</p>"&gt;Paragraph in English&lt;/p&gt;
     <h2>How do I get started with my HTML web page?</h2>
     <p>
