@@ -80,10 +80,5 @@
             <td>will add the file you want; index.html, app.js, etc.</td>
         </tr>
       </table>
-
-
-
-
-
 </body>
 </html>
