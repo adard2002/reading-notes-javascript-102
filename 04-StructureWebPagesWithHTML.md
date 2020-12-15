@@ -73,6 +73,12 @@
         Some ideas for designing your nav bar and personalizing it can be making when you hover your cursor over it have an arrow, or an underline indicating as to which page you are in at the moment. 
     </p>
     <h2>The journey of HTML</h2>
-    
+    <p style="color:blueText">HTML4</p> (released 1997)
+    - Some codes are now be in css instead. Such as &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt;. 
+    <p style="color:blueText">XHTML 1.0</p> (released 2000)
+    - It's purpose was to allow people to write new markup languages. It became so popular which made the creators decided HTML4  should be made to follow the rules of XML. Which let to the renaming to XHTML. Due to being updated and made to follow the rules of the XML, people had to follow some more strict rules with writing markup. There were some updates that helped people who were used to the old HTML version to transfer to the new one. Transitional XHTML 1.0 helped because it allowed for some of the old lines of code to be used.
+    <p style="color:blueText">HTML5</p> (work in progress)
+    - Don't need to close all tags
+    - New elements and attributes will be available.
 </body>
 </html>
