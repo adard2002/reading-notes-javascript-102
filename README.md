@@ -10,4 +10,5 @@
 - [Class 01b: Growth Mindset](01b-GrowthMindset.md)
 - [Class 02: Terminals and Text Editing](02-TextEditorsandTerminal.md)
 - [Class 03: Git](03-Git.md)
+- [Class 04: Structure web pages with HTML](04-StructureWebPagesWithHTML.md) 
 
