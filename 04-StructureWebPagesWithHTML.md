@@ -56,13 +56,6 @@
             <td>&lt;figure&gt;&lt;/figcaption&gt;</td>
             <td>Contains an image</td>
         </tr>
-    <h2>Introducing Attributes</h2>
-        <h3>What are attributes?</h3>
-        <p>Attributes tell us more about the code</p>
-        - Example: 
-        <p><p style="color:pinkText">Pink:</p> Attribute name</p>
-        <p><p style="color:blueText">Blue:</p> Attribute value</p>
-        - &lt;p&gt; <p style="color:pinkText">lang</p>="<p style="color:blueText">en-us</p>"&gt;Paragraph in English&lt;/p&gt;
     <h2>How do I get started with my HTML web page?</h2>
     <p>
         You are going to want to start out with a wireframe which is just how you want your webpage to look and how it's gonna be set up. When drawing out your wireframem you are going to want to make sure you include the navigation bar, logo, images, paragraphs etc. Get creative with it! 
