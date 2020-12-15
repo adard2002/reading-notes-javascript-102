@@ -6,5 +6,8 @@
 3. Not everyone understands something right away. It just takes practice. Everyone has their own ways that they learn.
 
 ### Table of Contents
-- [Class 01: Markdown](Markdown.md)
-- [Class 01: Terminals and Text Editing](TextEditorsandTerminal.html)
+- [Class 01: Markdown](01-Markdown.md)
+- [Class 01b: Growth Mindset](01b-GrowthMindset.md)
+- [Class 02: Terminals and Text Editing](02-TextEditorsandTerminal.md)
+- [Class 03: Git](03-Git.md)
+
