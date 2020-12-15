@@ -1,4 +1,5 @@
 [Home](README.md)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +34,6 @@
         They are used for a variety of things like creating files, folders, accessing your github and being able to go straight to your Codes that are in your Text Editor. 
     </p>
     <h1>Terminal Cheat Sheet To Help Get Started</h1>
-
     <table style="width:100%">
         <tr>
           <th>Command</th>
