@@ -11,4 +11,6 @@
 - [Class 02: Terminals and Text Editing](02-TextEditorsandTerminal.md)
 - [Class 03: Git](03-Git.md)
 - [Class 04: Structure web pages with HTML](04-StructureWebPagesWithHTML.md) 
+- [Class 05: CSS](05-CSS.md)
+- [Class 06a: JavaScript](06a-JavaScript.md)
 
