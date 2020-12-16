@@ -13,4 +13,5 @@
 - [Class 04: Structure web pages with HTML](04-StructureWebPagesWithHTML.md) 
 - [Class 05: CSS](05-CSS.md)
 - [Class 06a: JavaScript](06a-JavaScript.md)
+- [Class 06b: Computer Architechture and Logic](06b-AboutComputers.md)
 

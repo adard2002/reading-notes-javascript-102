@@ -46,5 +46,6 @@
 </ol>
 
 JavaScript is so confusing to me. lol
+Sorry it's kinda messed up. I'm just worried about getting everything done on time. I did try fixing the css to get it to work but still not working.
 </body>
 </html>
