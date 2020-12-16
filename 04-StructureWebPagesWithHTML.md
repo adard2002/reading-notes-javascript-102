@@ -10,6 +10,24 @@
     <h1>Structuring web pages with HTML</h1>
     <h2>What is HTML code?</h2>
         - HTML stands for HyperText Markup Language. HTML code is made up of what are called elements, these elements are characters which live inside angled brackets. Elements are usually made up of two tags: one being the opening and the other being the closing. The closing tag usually has a forward slash before the characters inside the angled brackets. 
+    <h2>How do I get started with my HTML web page?</h2>
+    <p>
+        You are going to want to start out with a wireframe which is just how you want your webpage to look and how it's gonna be set up. When drawing out your wireframem you are going to want to make sure you include the navigation bar, logo, images, paragraphs etc. Get creative with it! 
+    </p>
+    <h2>Some ideas to help you brainstorm what you want your navigation bar to all include</h2>
+    <p>
+        Your nav bar can have home, search bar, drop downs to some of the stuff on your nav bar. 
+        - Example: If you are making a page about cooking, you may want to have tabs in your nav bar such as; desserts, pastas, pizzas, etc. If you want some drop downs some ideas could be; if you want some under desserts you could have pie, cookies, cupcakes, etc. Just make the page your own! 
+        Some ideas for designing your nav bar and personalizing it can be making when you hover your cursor over it have an arrow, or an underline indicating as to which page you are in at the moment. 
+    </p>
+    <h2>The journey of HTML</h2>
+    <p><p style="color:blueText">HTML4</p> (released 1997)
+    - Some codes are now be in css instead. Such as &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt;.</p>
+    <p><p style="color:blueText">XHTML 1.0</p> (released 2000)
+    - It's purpose was to allow people to write new markup languages. It became so popular which made the creators decided HTML4  should be made to follow the rules of XML. Which let to the renaming to XHTML. Due to being updated and made to follow the rules of the XML, people had to follow some more strict rules with writing markup. There were some updates that helped people who were used to the old HTML version to transfer to the new one. Transitional XHTML 1.0 helped because it allowed for some of the old lines of code to be used.</p>
+    <p><p style="color:blueText">HTML5</p> (work in progress)
+    - Don't need to close all tags
+    - New elements and attributes will be available.</p>
     <h2>Here are some HTML codes to help you get started</h2>
     <table style="width:100%">
         <tr>
@@ -56,23 +74,5 @@
             <td>&lt;figure&gt;&lt;/figcaption&gt;</td>
             <td>Contains an image</td>
         </tr>
-    <h2>How do I get started with my HTML web page?</h2>
-    <p>
-        You are going to want to start out with a wireframe which is just how you want your webpage to look and how it's gonna be set up. When drawing out your wireframem you are going to want to make sure you include the navigation bar, logo, images, paragraphs etc. Get creative with it! 
-    </p>
-    <h2>Some ideas to help you brainstorm what you want your navigation bar to all include</h2>
-    <p>
-        Your nav bar can have home, search bar, drop downs to some of the stuff on your nav bar. 
-        - Example: If you are making a page about cooking, you may want to have tabs in your nav bar such as; desserts, pastas, pizzas, etc. If you want some drop downs some ideas could be; if you want some under desserts you could have pie, cookies, cupcakes, etc. Just make the page your own! 
-        Some ideas for designing your nav bar and personalizing it can be making when you hover your cursor over it have an arrow, or an underline indicating as to which page you are in at the moment. 
-    </p>
-    <h2>The journey of HTML</h2>
-    <p><p style="color:blueText">HTML4</p> (released 1997)
-    - Some codes are now be in css instead. Such as &lt;center&gt;, &lt;font&gt;, and &lt;strike&gt;.</p>
-    <p><p style="color:blueText">XHTML 1.0</p> (released 2000)
-    - It's purpose was to allow people to write new markup languages. It became so popular which made the creators decided HTML4  should be made to follow the rules of XML. Which let to the renaming to XHTML. Due to being updated and made to follow the rules of the XML, people had to follow some more strict rules with writing markup. There were some updates that helped people who were used to the old HTML version to transfer to the new one. Transitional XHTML 1.0 helped because it allowed for some of the old lines of code to be used.</p>
-    <p><p style="color:blueText">HTML5</p> (work in progress)
-    - Don't need to close all tags
-    - New elements and attributes will be available.</p>
 </body>
 </html>
