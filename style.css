@@ -3,8 +3,13 @@
 .pinkText {
     color: rgb(231, 160, 172);
 }
+.greenText {
+    color: rgb(158, 255, 158);
+}
 .blueText {
     color: lightskyblue;
 }
-
+.lightPurple {
+    color: mediumslateblue;
+}
 
