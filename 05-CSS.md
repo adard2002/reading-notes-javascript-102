@@ -40,29 +40,42 @@
 </tr>
 <tr>
     <td>ID Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches an element which ID attribute contains the pound sign or hashtag sign</td>
+    <td>#introduction {}</td>
 </tr>
 <tr>
     <td>Child Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches an element that is a child of another</td>
+    <td>li&gt;a {}</td>
 </tr>
 <tr>
     <td>Descendant Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches a specified element</td>
+    <td>p a {}</td>
 </tr>
 <tr>
     <td>Adjacent Sibling Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches an element that is a sibling of another</td>
+    <td>h1+p {}</td>
 </tr>
 <tr>
     <td>General Sibling Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches an element that is a sibling but doesn't have to be the one directly after the element</td>
+    <td>hp~p {}</td>
 </tr>
+<h2>Colors of CSS</h2>
+- There are 4 different ways you can get colors; RGB Values, Hex Codes, HSL, and Color Names.
+<ol type="1">
+    <li>RGB Values</li>: RGB stands for Red Green Blue. The colors are made up of how much red, green or blue are mixed.
+    <li>Hex Codes</li>: These are 6 digit codes that are followed by a # and they represent how much red, green, and blue are in a color.
+    <li>Color Names</li>: There are 147 predefined color names that are recognized by most browsers. The color names such as red, blue, green, etc.
+    <li>HSL</li>: HSL stands for Hue Saturation and Lightness. Hue is expressed as an angle (0 to 360), Saturation and Lightness are both expressed as percentages.
+</ol>
+
+
+
+
+
 
 
 
