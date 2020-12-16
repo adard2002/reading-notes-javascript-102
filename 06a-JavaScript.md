@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 <h1>JavaScript</h1>
 <h2>What is JavaScript?</h2>
-- JavaScript allows you to add interactivity to your page. Like opening a little menu asking you to put in a number 1 through 5 or something like that.
-- The <p style="color:blueText">document</p>: object represents the whole web page. This is recognized by all web browsers.
-- The <p style="color:greenText">write()</p>:  method of the document object allows for new content to be added where the &lt;script&gt; element sits in the html document. 
-- The <p style="color:lightPurple">Member Operator</p>: This is used by putting a dot between the object name and the member you to want to have access to.
-- The <p style="color:blueText">Parameter</p>: Is whatever is inside the parenthesis which contains the info that is needed in order to work.
-<p style="color:blueText">document</p><p style="color:lightPurple">.</p><p style="color:greenText">write&lt;</p><p style="color:blueText">'Good afternoon!'</p><p style="color:greenText">&gt;;</p>
+- JavaScript allows you to add interactivity to your page. Like opening a little menu asking you to put in a number 1 through 5 or something like that.<br>
+- The <p style="color:blueText">document</p>: object represents the whole web page. This is recognized by all web browsers.<br>
+- The <p style="color:greenText">write()</p>:  method of the document object allows for new content to be added where the &lt;script&gt; element sits in the html document. <br>
+- The <p style="color:lightPurple">Member Operator</p>: This is used by putting a dot between the object name and the member you to want to have access to.<br>
+- The <p style="color:blueText">Parameter</p>: Is whatever is inside the parenthesis which contains the info that is needed in order to work.<br>
+<p style="color:blueText">document</p><p style="color:lightPurple">.</p><p style="color:greenText">write&lt;</p><p style="color:blueText">'Good afternoon!'</p><p style="color:greenText">&gt;;</p><br>
 <h2>What is a script?</h2>
 - A script is a series of instructions kind of like a script that we would read. The computer reads the code and each and every instruction or command.
 <h2>Statements, Curly braces, and which codes should run</h2>
