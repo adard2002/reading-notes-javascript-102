@@ -25,18 +25,18 @@
 </tr>
 <tr>
     <td>Universal Selector</td>
-    <td></td>
-    <td></td>
+    <td>Applies to all elements</td>
+    <td>*{}</td>
 </tr>
 <tr>
     <td>Type Selector</td>
-    <td></td>
-    <td></td>
+    <td>Matches element names</td>
+    <td>h1, h2, h3 {}</td>
 </tr>
 <tr>
     <td>Class Selector</td>
-    <td></td>
-    <td></td>
+    <td>Targets any element that is after . In the example it targets any element with attribute of note</td>
+    <td>.note{}</td>
 </tr>
 <tr>
     <td>ID Selector</td>
