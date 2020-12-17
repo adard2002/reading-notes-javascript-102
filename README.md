@@ -14,4 +14,5 @@
 - [Class 05: CSS](05-CSS.md)
 - [Class 06a: JavaScript](06a-JavaScript.md)
 - [Class 06b: Computer Architechture and Logic](06b-AboutComputers.md)
-
+- [Class 07: Programming with JS](07-ProgrammingWithJS.md)
+- [Class 08: Operators and Loops](08-OperatorsAndLoops.md)
