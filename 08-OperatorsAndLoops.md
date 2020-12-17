@@ -162,8 +162,3 @@
             9 x 5 = 45<br />
 </body>
 </html>
-</DOCTYPE>
-        </section>
-    </div>
-  </body>
-</html>
