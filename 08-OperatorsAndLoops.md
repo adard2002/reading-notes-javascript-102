@@ -1,8 +1,6 @@
 [Home](README.md)
 <DOCTYPE html>
-<html>
 <link rel="stylesheet" href="style.css" />
-<title>DISCUSSION.08.md</title>
 <body>
     <h1>Operators and Loops</h1>
         <h2>Comparison Operators: Evaluating Conditions</h2>
